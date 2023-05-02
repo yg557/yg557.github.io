@@ -5,59 +5,19 @@
     <link>https://yg557.github.io/</link>
     <description>Recent content on Yidan Gao&#39;s Personal Online CV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2023 10:00:00 +0800</lastBuildDate><atom:link href="https://yg557.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Interests</title>
-      <link>https://yg557.github.io/misc/interests/</link>
-      <pubDate>Tue, 02 May 2023 10:00:00 +0800</pubDate>
-      
-      <guid>https://yg557.github.io/misc/interests/</guid>
-      <description>Here are some of my interests:
-Traveling: I love exploring new places and learning about different cultures. Volunteering: I enjoy giving back to the community and helping others in need. Swimming and Diving: I find these activities to be both relaxing and invigorating. Playing music: I am a certified Guzheng player and also enjoy playing guitar and ukulele in my free time. </description>
-    </item>
-    
-    <item>
-      <title>My Guitar Journey</title>
-      <link>https://yg557.github.io/stories/guitar/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://yg557.github.io/stories/guitar/</guid>
-      <description>Ever since I was a child, I&amp;rsquo;ve been fascinated by the sound of the guitar. It all started when I attended a family gathering where my uncle played his acoustic guitar. The melody was captivating, and I knew I wanted to learn how to play this incredible instrument.
-I began taking guitar lessons during my teenage years. My teacher was a talented musician who patiently guided me through the basics, helping me understand the different chords, scales, and techniques.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://yg557.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://yg557.github.io/resume/</link>
+      <link>https://yg557.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yg557.github.io/resume/</guid>
+      <guid>https://yg557.github.io/</guid>
       <description>Yidan(Rebecca) Gao +86 133301117177 | gaoyidan99@163.com | LinkedIn
 EDUCATION Cornell University | Aug 2022 - Dec 2023(Expected)
 Master of Engineering in Operations Research and Information Engineering - Data Analytics
 Core Coursework: Machine Learning, Consulting Case Study, Data-Driven Marketing, Supply Chain Management, Data Mining, Big Data Technology, Database Management and Programming, Financial Engineering, Game Theory
 University of Illinois Urbana Champaign (UIUC) | Aug 2018 - May 2022
 Bachelor of Engineering in Industrial Engineering in Economics and Finance Track (major); Statistics (minor)</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://yg557.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yg557.github.io/about/</guid>
-      <description>Yidan (Rebecca) Gao is a Master of Engineering in Operations Research and Information Engineering - Data Analytics at Cornell University. She received her Bachelor of Engineering in Industrial Engineering in Economics and Finance Track (major); Statistics (minor) from the University of Illinois Urbana Champaign (UIUC) where she made the Dean’s List every semester. Yidan has experience as a Data Analyst Intern at China International Capital Corporation (CICC), Project Manager Intern at JD.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://yg557.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yg557.github.io/projects/</guid>
-      <description>E&amp;amp;J Winery Optimization and Supply Chain Management Simulated production line, according to the technique difference of white and red wine, divided the data into 15 production lines categories, covering 800 equipment, equipment capacity, fermentation time, machine priority, filter flow etc. Ran Python code to calculate Markov mathematical model, increased the expected total revenue by 37%
-Housing Price Prediction Built machine learning models with linear regression and SVM to find out the top 3/15 affective factors of housing prices Predicted the housing prices after performing data cleansing, classification, training, and testing with R with 95% accuracy</description>
     </item>
     
   </channel>
